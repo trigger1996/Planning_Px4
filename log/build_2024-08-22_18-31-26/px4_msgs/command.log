@@ -1,0 +1,6 @@
+Invoking command in '/home/ywzheng/ws_px4/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake /home/ywzheng/ws_px4/src/px4_msgs -DCMAKE_INSTALL_PREFIX=/home/ywzheng/ws_px4/install/px4_msgs
+Invoked command in '/home/ywzheng/ws_px4/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake /home/ywzheng/ws_px4/src/px4_msgs -DCMAKE_INSTALL_PREFIX=/home/ywzheng/ws_px4/install/px4_msgs
+Invoking command in '/home/ywzheng/ws_px4/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --build /home/ywzheng/ws_px4/build/px4_msgs -- -j8 -l8
+Invoked command in '/home/ywzheng/ws_px4/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --build /home/ywzheng/ws_px4/build/px4_msgs -- -j8 -l8
+Invoking command in '/home/ywzheng/ws_px4/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --install /home/ywzheng/ws_px4/build/px4_msgs
+Invoked command in '/home/ywzheng/ws_px4/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --install /home/ywzheng/ws_px4/build/px4_msgs
